@@ -1,0 +1,28 @@
+clase anterior
+1)instalar el composer
+2) instalar el slim
+3)tarea hacer con slim abm ..con login que devuelva true o false y subirlo a un servidor.
+
+CLASE 2
+_______________________________
+0)instalar npm
+1)copiar y pegar en cmd: cd C:\Users\casa001\Desktop\angular
+2)seguir los pasos de la pag angular cli
+3)ng serve
+4)localhost
+
+Instalar ionic2
+crear aplicacion desde ionic cordova
+
+Anotaciones
+_________________________________________________________________________________________________________
+Para abrir una base de datos importadacreo una base de datos vacia e importo el archivo de .bd en phphmyadmin
+
+
+VER ERRORES--->f12 consola|voy a source punto de interrupcion en el metodo , f10 paso a paso
+PUNTO DE INTERRUPCION EN EL .THEN(){Function(data) de modificar en 
+probar
+vardump();
+return;
+
+en el slim :archivos funciones.js y slim.js
